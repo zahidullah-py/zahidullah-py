@@ -99,11 +99,25 @@ public class ZahidUllah extends Developer {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zahidullah-py&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=ffa657&text_color=e6edf3"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidullah-py&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&langs_count=6"/>
+<!-- ALWAYS WORKING STATS - shields.io -->
+![Total Commits](https://img.shields.io/badge/Total%20Contributions-37-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+&nbsp;
+![Repos](https://img.shields.io/badge/Public%20Repos-4-ffa657?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/zahidullah-py?style=for-the-badge&logo=github&color=3fb950&labelColor=0d1117&label=Followers)
 
 <br/><br/>
 
+<!-- LANGUAGES USED -->
+![Java](https://img.shields.io/badge/Java-40%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d1117)
+&nbsp;
+![Dart](https://img.shields.io/badge/Dart-45%25-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=0d1117)
+&nbsp;
+![C](https://img.shields.io/badge/C-15%25-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=0d1117)
+
+<br/><br/>
+
+<!-- STREAK - most reliable service -->
 <img width="70%" src="https://streak-stats.demolab.com?user=zahidullah-py&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ffa657&currStreakLabel=58a6ff&sideLabels=e6edf3&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff"/>
 
 </div>
