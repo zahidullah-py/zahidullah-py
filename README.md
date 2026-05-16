@@ -114,13 +114,11 @@ public class ZahidUllah extends Developer {
 
 <div align="center">
 
-[![DSA-Practice](https://github-readme-stats.vercel.app/api/pin/?username=zahidullah-py&repo=DSA-Practice&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=ffa657&text_color=e6edf3)](https://github.com/zahidullah-py/DSA-Practice)
-&nbsp;
-[![dart-practice](https://github-readme-stats.vercel.app/api/pin/?username=zahidullah-py&repo=dart-practice&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=0175c2&text_color=e6edf3)](https://github.com/zahidullah-py/dart-practice)
-
-<br/>
-
-[![dart-library-management-system](https://github-readme-stats.vercel.app/api/pin/?username=zahidullah-py&repo=dart-library-management-system&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=0175c2&text_color=e6edf3)](https://github.com/zahidullah-py/dart-library-management-system)
+| Repository | Description | Language | Link |
+|:---:|:---|:---:|:---:|
+| 🧠 **DSA-Practice** | Data Structures and Algorithms implementations — Arrays, LinkedList, Stack, Queue, Sorting | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | [![View](https://img.shields.io/badge/View-Repo-58a6ff?style=flat-square&logo=github)](https://github.com/zahidullah-py/DSA-Practice) |
+| 🎯 **dart-practice** | Dart programming practice files — syntax, OOP, functions and more | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | [![View](https://img.shields.io/badge/View-Repo-58a6ff?style=flat-square&logo=github)](https://github.com/zahidullah-py/dart-practice) |
+| 📚 **dart-library-management-system** | A full library management system built with Dart — OOP project | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | [![View](https://img.shields.io/badge/View-Repo-58a6ff?style=flat-square&logo=github)](https://github.com/zahidullah-py/dart-library-management-system) |
 
 </div>
 
