@@ -152,7 +152,15 @@ public class ZahidUllah extends Developer {
 
 <div align="center">
 
-[![trophies](https://github-profile-trophy.vercel.app/?username=zahidullah-py&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github.com/zahidullah-py)
+[![trophies](https://github-profile-trophy.vercel.app/?username=zahidullah-py&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/zahidullah-py)
+
+<br/>
+
+![Commits](https://img.shields.io/badge/🏅_Commits-Middle_Committer_36pt-58a6ff?style=for-the-badge&labelColor=0d1117)
+&nbsp;
+![Followers](https://img.shields.io/badge/🤝_Followers-First_Friend_2pt-8957e5?style=for-the-badge&labelColor=0d1117)
+&nbsp;
+![Repos](https://img.shields.io/badge/📁_Repos-First_Repository_4pt-3fb950?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
@@ -162,21 +170,22 @@ public class ZahidUllah extends Developer {
 
 <div align="center">
 
-```
- ZAHID ULLAH — 2025 DEVELOPER ROADMAP
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  ✅  Learned Java OOP and Fundamentals
-  ✅  Started GitHub and Version Control
-  ✅  Created DSA-Practice Repo in Java
-  ✅  Started Dart and Flutter Learning
-  ✅  Built dart-library-management-system
-  🔨  Mastering DSA in Java (Arrays to Graphs)
-  🔨  Building Flutter Mobile App
-  📚  Completing MySQL Database Course
-  🔜  Contributing to Open Source
-  🎯  Landing First CS Internship
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+| # | Goal | Status | Badge |
+|:---:|:---|:---:|:---:|
+| 01 | Learn Java OOP and Fundamentals | ✅ Done | ![done](https://img.shields.io/badge/COMPLETED-3fb950?style=flat-square) |
+| 02 | Start GitHub and Version Control | ✅ Done | ![done](https://img.shields.io/badge/COMPLETED-3fb950?style=flat-square) |
+| 03 | Create DSA-Practice Repo in Java | ✅ Done | ![done](https://img.shields.io/badge/COMPLETED-3fb950?style=flat-square) |
+| 04 | Start Dart and Flutter Learning | ✅ Done | ![done](https://img.shields.io/badge/COMPLETED-3fb950?style=flat-square) |
+| 05 | Build dart-library-management-system | ✅ Done | ![done](https://img.shields.io/badge/COMPLETED-3fb950?style=flat-square) |
+| 06 | Master DSA in Java — Arrays to Graphs | 🔨 Active | ![active](https://img.shields.io/badge/IN_PROGRESS-ffa657?style=flat-square) |
+| 07 | Build a Complete Flutter Mobile App | 🔨 Active | ![active](https://img.shields.io/badge/IN_PROGRESS-ffa657?style=flat-square) |
+| 08 | Complete MySQL Database Course | 📚 Learning | ![learning](https://img.shields.io/badge/LEARNING-58a6ff?style=flat-square) |
+| 09 | Contribute to Open Source | 🔜 Soon | ![soon](https://img.shields.io/badge/UPCOMING-8957e5?style=flat-square) |
+| 10 | Land First CS Internship | 🎯 Goal | ![goal](https://img.shields.io/badge/BIG_GOAL-d2a8ff?style=flat-square) |
+
+<br/>
+
+![Progress](https://img.shields.io/badge/Overall_Progress-50%25_Complete-58a6ff?style=for-the-badge&labelColor=0d1117&logo=target)
 
 </div>
 
