@@ -1,19 +1,20 @@
+at > /mnt/user-data/outputs/README.md << 'READMEEOF'
 <div align="center">
 
-<!-- TYPING NAME -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=65&lines=Zahid+Ullah" alt="Zahid Ullah"/>
+<!-- MATRIX STYLE NAME -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=44&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&height=72&lines=Zahid+Ullah" alt="Zahid Ullah" />
 
-<!-- SUBTITLE -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3000&pause=800&color=8b949e&center=true&vCenter=true&width=650&lines=CS+Student+%40+COMSATS+University+%7C+Pakistan;Flutter+Developer+%28in+progress%29;Java+%26+DSA+Enthusiast;Building+real+apps+%E2%80%94+one+commit+at+a+time" alt="subtitle"/>
+<!-- ROLES TYPING -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=2800&pause=700&color=64748B&center=true&vCenter=true&width=680&lines=CS+Student+%40+COMSATS+University+%7C+Pakistan;Flutter+Developer+%7C+Java+%26+DSA+Enthusiast;Building+real+apps+%E2%80%94+one+commit+at+a+time;%3E+currently+compiling+myself...+99%25_done" alt="roles" />
 
 <br/>
 
-<!-- STATUS BADGES -->
-![Status](https://img.shields.io/badge/Status-Open%20to%20Collaborate-3fb950?style=flat-square&labelColor=0d1117&logo=statuspage&logoColor=3fb950)
+<!-- MINIMAL FLAT BADGES -->
+![open-to-work](https://img.shields.io/badge/%E2%97%8F%20Open%20to%20Collaborate-4ade80?style=flat-square&labelColor=0a1628&color=0a1628&logoColor=4ade80)
 &nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=zahidullah-py&color=58a6ff&style=flat-square&label=Profile+Views)
+![profile-views](https://komarev.com/ghpvc/?username=zahidullah-py&color=38bdf8&style=flat-square&label=profile+views)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/zahidullah-py?style=flat-square&logo=github&color=58a6ff&labelColor=0d1117)](https://github.com/zahidullah-py)
+[![followers](https://img.shields.io/github/followers/zahidullah-py?style=flat-square&color=38bdf8&labelColor=0a1628&label=followers)](https://github.com/zahidullah-py)
 
 </div>
 
@@ -31,8 +32,8 @@
  */
 public class ZahidUllah extends Developer {
 
-    String university = "COMSATS University";
-    String focus      = "Mobile Development";
+    String university   = "COMSATS University";
+    String focus        = "Mobile Development";
 
     String[] languages  = { "Java", "Dart", "C" };
     String[] mobile     = { "Flutter" };
@@ -51,9 +52,9 @@ public class ZahidUllah extends Developer {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,dart,flutter,c,mysql,git,github,vscode,androidstudio&perline=9&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,dart,flutter,c,mysql,git,github,vscode,androidstudio&perline=9&theme=dark" />
 
-<br/><br/>
+<br /><br />
 
 | Category | Technologies |
 |:---:|:---|
@@ -61,7 +62,7 @@ public class ZahidUllah extends Developer {
 | **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) |
 | **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
-| **Concepts** | ![DSA](https://img.shields.io/badge/DSA-FF6B35?style=flat-square) ![OOP](https://img.shields.io/badge/OOP-8957e5?style=flat-square) ![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=flat-square) |
+| **Concepts** | ![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-FF6B35?style=flat-square) ![OOP](https://img.shields.io/badge/Object_Oriented_Programming-8957e5?style=flat-square) |
 
 </div>
 
@@ -71,12 +72,21 @@ public class ZahidUllah extends Developer {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zahidullah-py&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=ffa657&text_color=8b949e&ring_color=58a6ff"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=zahidullah-py&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ffa657&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zahidullah-py&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=fb923c&text_color=8b949e&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zahidullah-py&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=fb923c&text_color=8b949e&include_all_commits=true&count_private=true" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=zahidullah-py&theme=dark&hide_border=true&background=0D1117&stroke=1e3a5f&ring=38bdf8&fire=fb923c&currStreakLabel=38bdf8&sideLabels=8b949e&dates=475569&currStreakNum=e2e8f0&sideNums=e2e8f0" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=zahidullah-py&theme=dark&hide_border=true&background=0D1117&stroke=1e3a5f&ring=38bdf8&fire=fb923c&currStreakLabel=38bdf8&sideLabels=8b949e&dates=475569&currStreakNum=e2e8f0&sideNums=e2e8f0" />
+</picture>
 
-<br/><br/>
+<br /><br />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidullah-py&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=5"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidullah-py&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=8b949e&langs_count=5" />
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidullah-py&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=8b949e&langs_count=5" />
+</picture>
 
 </div>
 
@@ -86,26 +96,19 @@ public class ZahidUllah extends Developer {
 
 <div align="center">
 
-<a href="https://github.com/zahidullah-py/DSA-Practice">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=zahidullah-py&repo=DSA-Practice&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=ffa657&text_color=8b949e"/>
-</a>
-<a href="https://github.com/zahidullah-py/dart-library-management-system">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=zahidullah-py&repo=dart-library-management-system&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=ffa657&text_color=8b949e"/>
-</a>
+[![DSA-Practice](https://github-readme-stats.vercel.app/api/pin/?username=zahidullah-py&repo=DSA-Practice&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=fb923c&text_color=8b949e)](https://github.com/zahidullah-py/DSA-Practice)&nbsp;[![dart-library-management-system](https://github-readme-stats.vercel.app/api/pin/?username=zahidullah-py&repo=dart-library-management-system&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=fb923c&text_color=8b949e)](https://github.com/zahidullah-py/dart-library-management-system)
 
-<a href="https://github.com/zahidullah-py/dart-practice">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=zahidullah-py&repo=dart-practice&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=ffa657&text_color=8b949e"/>
-</a>
+[![dart-practice](https://github-readme-stats.vercel.app/api/pin/?username=zahidullah-py&repo=dart-practice&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=fb923c&text_color=8b949e)](https://github.com/zahidullah-py/dart-practice)
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <div align="center">
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zahidullah-py&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffa657&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution+Graph&radius=6)](https://github.com/zahidullah-py)
+[![activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=zahidullah-py&bg_color=0d1117&color=38bdf8&line=1e3a5f&point=fb923c&area=true&area_color=1e3a5f&hide_border=true&custom_title=Zahid+Ullah+%E2%80%94+Contribution+Graph&radius=6&height=220)](https://github.com/zahidullah-py)
 
 </div>
 
@@ -113,59 +116,72 @@ public class ZahidUllah extends Developer {
 
 ## 🎯 2025 Developer Roadmap
 
+<div align="center">
+
 | # | Goal | Status |
 |:---:|:---|:---:|
-| 01 | Learn Java OOP and Fundamentals | ✅ `COMPLETED` |
-| 02 | Start GitHub and Version Control | ✅ `COMPLETED` |
-| 03 | Create DSA-Practice Repo in Java | ✅ `COMPLETED` |
-| 04 | Start Dart and Flutter Learning | ✅ `COMPLETED` |
-| 05 | Build dart-library-management-system | ✅ `COMPLETED` |
-| 06 | Master DSA in Java — Arrays to Graphs | 🔨 `IN PROGRESS` |
-| 07 | Build a Complete Flutter Mobile App | 🔨 `IN PROGRESS` |
-| 08 | Complete MySQL Database Course | 📚 `LEARNING` |
+| 01 | Learn Java OOP & Fundamentals | ✅ `DONE` |
+| 02 | Start GitHub & Version Control | ✅ `DONE` |
+| 03 | DSA-Practice Repo in Java | ✅ `DONE` |
+| 04 | Dart & Flutter Learning | ✅ `DONE` |
+| 05 | dart-library-management-system | ✅ `DONE` |
+| 06 | Master DSA — Arrays to Graphs | 🔨 `IN PROGRESS` |
+| 07 | Build a Complete Flutter App | 🔨 `IN PROGRESS` |
+| 08 | MySQL Database Course | 📚 `LEARNING` |
 | 09 | Contribute to Open Source | 🔜 `UPCOMING` |
 | 10 | Land First CS Internship | 🎯 `BIG GOAL` |
 
-<div align="center">
-
 <br/>
 
-![Progress](https://img.shields.io/badge/Overall_Progress-50%25_Complete-58a6ff?style=for-the-badge&labelColor=0d1117)
+![progress](https://img.shields.io/badge/Overall_Progress-50%25_Complete-38bdf8?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
 ---
 
-## 🏆 Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![trophies](https://github-profile-trophy.vercel.app/?username=zahidullah-py&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4)](https://github.com/zahidullah-py)
+[![trophies](https://github-profile-trophy.vercel.app/?username=zahidullah-py&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4)](https://github.com/zahidullah-py)
 
 </div>
 
 ---
 
-## 📬 Connect
+## 📬 Connect With Me
 
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-zahidullah2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:zahidullah2@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-zahidullah--py-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/zahidullah-py)
+[![GitHub](https://img.shields.io/badge/GitHub-zahidullah--py-38bdf8?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/zahidullah-py)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](#)
 
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-<br/>
+<br /><br />
 
 ```
-"First, solve the problem. Then, write the code."
+> First, solve the problem. Then, write the code.
 ```
 
-**37 contributions and counting — every commit is progress 🚀**
+**54 contributions and counting — every commit is progress 🚀**
+
+<br />
+
+*If you find my work useful, star a repo — it means a lot!*
 
 </div>
+READMEEOF
+echo "Done"
+Output
+
+Done
+Done
+
+You are out of free messages until 1:40 PM
+Upgrade
+
+
+
+
