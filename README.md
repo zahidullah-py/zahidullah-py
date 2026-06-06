@@ -77,26 +77,66 @@ public class ZahidUllah extends Developer {
 
 <div align="center">
 
-<!-- STREAK CARD — demolab, reliable, matches what you want -->
-<img src="https://streak-stats.demolab.com?user=zahidullah-py&theme=dark&hide_border=true&background=050a14&stroke=0d1f3c&ring=38bdf8&fire=fbbf24&currStreakLabel=38bdf8&sideLabels=334155&dates=334155&currStreakNum=e2e8f0&sideNums=e2e8f0&border_radius=10"/>
-
-<br/><br/>
-
-<!-- STAT NUMBERS — shields.io, 100% reliable -->
-![contributions](https://img.shields.io/badge/Total_Contributions-56-38bdf8?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1f3c)
+<!-- STAT CARDS — 100% shields.io, never breaks -->
+![contributions](https://img.shields.io/badge/Total_Contributions-59-38bdf8?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1f3c)
+&nbsp;
+![streak](https://img.shields.io/badge/Longest_Streak-5_days-fbbf24?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1f3c)
 &nbsp;
 ![repos](https://img.shields.io/badge/Public_Repos-5-c084fc?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1f3c)
-&nbsp;
-![since](https://img.shields.io/badge/Coding_Since-2025-4ade80?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1f3c)
 
 <br/><br/>
 
-<!-- LANGUAGE BREAKDOWN -->
+<!-- LANGUAGE BARS — shields.io, always renders -->
 ![Dart](https://img.shields.io/badge/Dart-45%25-0175C2?style=flat-square&logo=dart&logoColor=white&labelColor=0d1f3c)
 &nbsp;&nbsp;
 ![Java](https://img.shields.io/badge/Java-40%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=0d1f3c)
 &nbsp;&nbsp;
 ![C](https://img.shields.io/badge/C-15%25-00599C?style=flat-square&logo=c&logoColor=white&labelColor=0d1f3c)
+
+<br/><br/>
+
+<!-- SELF-CONTAINED SVG STATS CARD — no external service, renders 100% of the time -->
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#050a14"/>
+      <stop offset="100%" style="stop-color:#0d1f3c"/>
+    </linearGradient>
+    <linearGradient id="ringGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#38bdf8"/>
+      <stop offset="100%" style="stop-color:#c084fc"/>
+    </linearGradient>
+  </defs>
+  <!-- Card background -->
+  <rect width="800" height="200" rx="12" fill="url(#cardGrad)" stroke="#0f2a4a" stroke-width="1"/>
+  <!-- Top accent line -->
+  <rect width="800" height="2" rx="1" fill="url(#ringGrad)"/>
+
+  <!-- Left panel — Total Contributions -->
+  <line x1="267" y1="30" x2="267" y2="170" stroke="#0f2a4a" stroke-width="1"/>
+  <text x="133" y="80" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="44" font-weight="900" fill="#38bdf8">59</text>
+  <text x="133" y="108" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="12" fill="#334155">Total Contributions</text>
+  <text x="133" y="128" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="11" fill="#1e3a5f">Apr 5 · Present</text>
+
+  <!-- Center panel — Current Streak with ring -->
+  <line x1="533" y1="30" x2="533" y2="170" stroke="#0f2a4a" stroke-width="1"/>
+  <!-- Outer ring track -->
+  <circle cx="400" cy="100" r="52" fill="none" stroke="#0f2a4a" stroke-width="6"/>
+  <!-- Streak ring — 327.25 = 2*pi*52 -->
+  <circle cx="400" cy="100" r="52" fill="none" stroke="url(#ringGrad)" stroke-width="6"
+    stroke-dasharray="327.25" stroke-dashoffset="82"
+    stroke-linecap="round" transform="rotate(-90 400 100)"/>
+  <!-- Fire emoji substitute -->
+  <text x="400" y="82" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="14" fill="#fbbf24">🔥</text>
+  <text x="400" y="108" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="38" font-weight="900" fill="#e2e8f0">5</text>
+  <text x="400" y="130" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="11" fill="#38bdf8" font-weight="600">Current Streak</text>
+  <text x="400" y="148" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="10" fill="#334155">Jun 4 · Jun 6</text>
+
+  <!-- Right panel — Longest Streak -->
+  <text x="666" y="80" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="44" font-weight="900" fill="#c084fc">5</text>
+  <text x="666" y="108" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="12" fill="#334155">Longest Streak</text>
+  <text x="666" y="128" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="11" fill="#1e3a5f">Apr 16 · Apr 20</text>
+</svg>
 
 </div>
 
@@ -161,7 +201,44 @@ public class ZahidUllah extends Developer {
 
 <div align="center">
 
-[![trophies](https://github-profile-trophy.vercel.app/?username=zahidullah-py&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/zahidullah-py)
+<!-- SELF-CONTAINED SVG TROPHIES — always renders, never breaks -->
+<svg width="800" height="130" viewBox="0 0 800 130" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="tg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#050a14"/>
+      <stop offset="100%" style="stop-color:#0d1f3c"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="130" rx="12" fill="url(#tg)" stroke="#0f2a4a" stroke-width="1"/>
+
+  <!-- Trophy 1 — Commits -->
+  <rect x="20" y="15" width="170" height="100" rx="8" fill="#0b1729" stroke="#0f2a4a" stroke-width="1"/>
+  <text x="105" y="45" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="26">🏅</text>
+  <text x="105" y="72" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="11" fill="#38bdf8" font-weight="600">Commits</text>
+  <text x="105" y="90" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="10" fill="#334155">Middle Committer</text>
+  <text x="105" y="106" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="9" fill="#1e3a5f">59 pts</text>
+
+  <!-- Trophy 2 — Repos -->
+  <rect x="205" y="15" width="170" height="100" rx="8" fill="#0b1729" stroke="#0f2a4a" stroke-width="1"/>
+  <text x="290" y="45" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="26">📁</text>
+  <text x="290" y="72" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="11" fill="#c084fc" font-weight="600">Repositories</text>
+  <text x="290" y="90" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="10" fill="#334155">First Repository</text>
+  <text x="290" y="106" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="9" fill="#1e3a5f">5 repos</text>
+
+  <!-- Trophy 3 — Followers -->
+  <rect x="390" y="15" width="170" height="100" rx="8" fill="#0b1729" stroke="#0f2a4a" stroke-width="1"/>
+  <text x="475" y="45" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="26">🤝</text>
+  <text x="475" y="72" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="11" fill="#4ade80" font-weight="600">Followers</text>
+  <text x="475" y="90" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="10" fill="#334155">First Friend</text>
+  <text x="475" y="106" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="9" fill="#1e3a5f">2 followers</text>
+
+  <!-- Trophy 4 — Early Bird -->
+  <rect x="575" y="15" width="205" height="100" rx="8" fill="#0b1729" stroke="#0f2a4a" stroke-width="1"/>
+  <text x="677" y="45" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="26">🎯</text>
+  <text x="677" y="72" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="11" fill="#fbbf24" font-weight="600">Roadmap</text>
+  <text x="677" y="90" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="10" fill="#334155">5 goals completed</text>
+  <text x="677" y="106" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="9" fill="#1e3a5f">50% done</text>
+</svg>
 
 </div>
 
@@ -189,6 +266,6 @@ public class ZahidUllah extends Developer {
 // "First, solve the problem. Then, write the code."
 ```
 
-**56 contributions and counting — every commit is progress 🚀**
+**59 contributions and counting — every commit is progress 🚀**
 
 </div>
