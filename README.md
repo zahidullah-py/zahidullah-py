@@ -77,21 +77,21 @@ public class ZahidUllah extends Developer {
 
 <div align="center">
 
-<!-- STREAK — most reliable, always loads -->
-<img width="60%" src="https://streak-stats.demolab.com?user=zahidullah-py&theme=dark&hide_border=true&background=050a14&stroke=0d1f3c&ring=38bdf8&fire=fbbf24&currStreakLabel=38bdf8&sideLabels=334155&dates=334155&currStreakNum=e2e8f0&sideNums=e2e8f0"/>
+<!-- STREAK CARD — demolab, reliable, matches what you want -->
+<img src="https://streak-stats.demolab.com?user=zahidullah-py&theme=dark&hide_border=true&background=050a14&stroke=0d1f3c&ring=38bdf8&fire=fbbf24&currStreakLabel=38bdf8&sideLabels=334155&dates=334155&currStreakNum=e2e8f0&sideNums=e2e8f0&border_radius=10"/>
 
 <br/><br/>
 
-<!-- STAT BADGES — 100% reliable, uses shields.io not github-readme-stats -->
+<!-- STAT NUMBERS — shields.io, 100% reliable -->
 ![contributions](https://img.shields.io/badge/Total_Contributions-56-38bdf8?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1f3c)
 &nbsp;
 ![repos](https://img.shields.io/badge/Public_Repos-5-c084fc?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1f3c)
 &nbsp;
-![since](https://img.shields.io/badge/Active_Since-2025-4ade80?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1f3c)
+![since](https://img.shields.io/badge/Coding_Since-2025-4ade80?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1f3c)
 
 <br/><br/>
 
-<!-- LANGUAGE BREAKDOWN — static badges, never break -->
+<!-- LANGUAGE BREAKDOWN -->
 ![Dart](https://img.shields.io/badge/Dart-45%25-0175C2?style=flat-square&logo=dart&logoColor=white&labelColor=0d1f3c)
 &nbsp;&nbsp;
 ![Java](https://img.shields.io/badge/Java-40%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=0d1f3c)
@@ -108,10 +108,10 @@ public class ZahidUllah extends Developer {
 
 | Repository | Description | Language | Topics |
 |:---|:---|:---:|:---:|
-| [**📦 DSA-Practice**](https://github.com/zahidullah-py/DSA-Practice) | Arrays, LinkedList, Stack, Queue, Sorting — all implemented from scratch with clean Java code and comments | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | `DSA` `Algorithms` `OOP` |
-| [**📚 dart-library-management-system**](https://github.com/zahidullah-py/dart-library-management-system) | Full-featured library system — borrow, return, manage books. A complete Dart OOP project | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | `OOP` `CLI` `Dart` |
-| [**🎯 dart-practice**](https://github.com/zahidullah-py/dart-practice) | Dart syntax, functions, OOP patterns — structured daily practice files with real examples | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | `Practice` `Dart` |
-| [**🚀 flutter-app**](https://github.com/zahidullah-py) *(coming soon)* | First complete Flutter mobile application — work in progress, shipping 2025 | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | `WIP` `Mobile` |
+| [**📦 DSA-Practice**](https://github.com/zahidullah-py/DSA-Practice) | Arrays, LinkedList, Stack, Queue, Sorting — all implemented from scratch with clean Java code | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | `DSA` `Algorithms` `OOP` |
+| [**📚 dart-library-management-system**](https://github.com/zahidullah-py/dart-library-management-system) | Full-featured library system — borrow, return, manage books. Complete Dart OOP project | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | `OOP` `CLI` `Dart` |
+| [**🎯 dart-practice**](https://github.com/zahidullah-py/dart-practice) | Dart syntax, functions, OOP patterns — structured daily practice files | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | `Practice` `Dart` |
+| [**🚀 flutter-app**](https://github.com/zahidullah-py) *(coming soon)* | First complete Flutter mobile app — shipping 2025 | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | `WIP` `Mobile` |
 
 </div>
 
@@ -121,7 +121,7 @@ public class ZahidUllah extends Developer {
 
 <div align="center">
 
-[![graph](https://github-readme-activity-graph.vercel.app/graph?username=zahidullah-py&bg_color=050a14&color=38bdf8&line=0d1f3c&point=fbbf24&area=true&area_color=0d1f3c&hide_border=true&custom_title=zahidullah-py+Contribution+Graph&radius=4&height=200&font_color=334155)](https://github.com/zahidullah-py)
+[![graph](https://github-readme-activity-graph.vercel.app/graph?username=zahidullah-py&bg_color=050a14&color=38bdf8&line=0d1f3c&point=fbbf24&area=true&area_color=0d1f3c&hide_border=true&custom_title=zahidullah-py+—+Contribution+Graph&radius=4&height=200&font_color=334155)](https://github.com/zahidullah-py)
 
 </div>
 
