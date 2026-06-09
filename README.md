@@ -270,4 +270,3 @@ public class ZahidUllah extends Developer {
 
 </div>
 
-///////////////////////
