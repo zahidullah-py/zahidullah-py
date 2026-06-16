@@ -193,4 +193,4 @@ Roadmap Progress ████████████░░░░░░░░░
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:388bfd,50:1f6feb,100:0d1117&height=100&section=footer" />
 
 </div>
- ///////////////............................zzzzzzzzzzzzzzzzzzzzz 
+ ///////////////............................zzzz 
