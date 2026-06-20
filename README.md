@@ -101,7 +101,7 @@ public class ZahidUllah extends Developer {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zahidullah-py&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=388bfd&ring=388bfd&fire=e3b341&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zahidullah-py&timezone=Asia/Karachi&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=388bfd&ring=388bfd&fire=e3b341&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" />
 
 </div>
 
@@ -170,7 +170,7 @@ Roadmap Progress ████████████░░░░░░░░░
 // "First, solve the problem. Then, write the code."
 ```
 
-*59 contributions and counting — every commit is progress 🚀*
+*130 contributions and counting — every commit is progress 🚀*
 
 </div>
 
@@ -186,11 +186,8 @@ Roadmap Progress ████████████░░░░░░░░░
 
 </div>
 
- 
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:388bfd,50:1f6feb,100:0d1117&height=100&section=footer" />
 
-</div> 
- 
+</div>
