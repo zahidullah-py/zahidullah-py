@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a1628,70:0f2d5c,100:1f6feb&height=220&section=header&text=Zahid%20Ullah&fontSize=58&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=CS%20Student%20%40%20COMSATS%20University%20%7C%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=60&descColor=8b949e&animation=fadeIn" />
 
@@ -260,4 +260,4 @@ Progress  ████████████░░░░░░░░░░░ 
 
 </div>
  
-///////////////////////////////mmmmmmmmmmmmmmmmmmmmmmmmoo 
+///////////////////////////////mmmm 
